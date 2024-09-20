@@ -1,4 +1,5 @@
 #include <iostream>
+/*FAKT*/
 using namespace std;
 char leveling(char c){
     if (('A' <= c) && (c <= 'Z'))
